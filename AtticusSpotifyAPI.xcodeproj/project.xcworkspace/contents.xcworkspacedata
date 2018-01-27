@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:SpotifyTesting.xcodeproj">
+      location = "self:/Users/BigBoss/AtticusProjects/SpotifyTesting/AtticusSpotifyAPI.xcodeproj">
    </FileRef>
 </Workspace>
